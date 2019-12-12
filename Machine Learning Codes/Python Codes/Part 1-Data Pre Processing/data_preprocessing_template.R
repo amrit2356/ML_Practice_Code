@@ -1,7 +1,7 @@
 # Data Preprocessing Template
 
 # Importing the dataset
-dataset = read.csv('Data.csv')
+dataset = read.csv('Machine Learning A-Z Template Folder/Part 1 - Data Preprocessing/Data.csv')
 
 # Splitting the dataset into the Training set and Test set
 # install.packages('caTools')
